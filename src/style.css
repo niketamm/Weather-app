@@ -1,0 +1,85 @@
+body {
+  background-color: #c3d4db;
+  color: #487e95;
+}
+
+div {
+  width: 600px;
+  height: 406px;
+}
+
+.bodydesign {
+  border: solid 1px;
+  border-radius: 10px;
+  background-image: url("src/pexels-snapwire-37728.jpg");
+  margin: 20px auto;
+  padding: 10px;
+}
+
+form {
+  display: inline;
+  font-size: 13px;
+  margin: 0px;
+}
+
+.search {
+  width: 270px;
+  padding: 10px;
+  border-radius: 8px;
+  border: solid 1px;
+}
+
+.searchTwo {
+  width: 150px;
+  padding: 10px;
+  border-radius: 10px;
+  border: solid 1px;
+  background-color: #fbf3e6;
+}
+
+h1 {
+  margin: 8px 0px;
+}
+
+h2 {
+  display: inline;
+}
+
+p {
+  margin: 0;
+}
+
+.illustration {
+  width: 170px;
+  float: right;
+}
+
+td {
+  border-radius: 5px;
+}
+
+table {
+  width: 100%;
+  text-align: center;
+  margin: 0px;
+}
+
+.weather-table {
+  background-color: #c3d4db;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 5px;
+}
+
+.weatherLower {
+  font-size: 15px;
+  background-color: rgb(250, 250, 250, 0.3);
+  border: none;
+  background-color: none;
+  padding: 2px;
+}
+.weatherLowerText {
+  background-color: rgb(250, 250, 250, 0.3);
+  font-size: 13px;
+  padding: 2px;
+}
