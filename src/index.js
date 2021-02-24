@@ -1,4 +1,3 @@
-alert(`Hello!`)
 
 //feature1 week4
 let dateoutput = document.querySelector("#date");
